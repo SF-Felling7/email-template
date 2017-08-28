@@ -16,3 +16,17 @@
 #left {
   left: 0;
 }
+
+table {
+  width: 100%;
+  padding-left: 100px;
+}
+
+tr {
+  vertical-align: top;
+}
+
+.headingLrg {
+  color: #1765BF;
+  font-size: 24px;
+}
