@@ -1,3 +1,7 @@
+.imgBanner {
+  width: 95%;
+}
+
 #left {
   background: #00BFFF;
   position: fixed;
