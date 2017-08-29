@@ -19,7 +19,7 @@
 
 table {
   width: 100%;
-  padding-left: 100px;
+  padding-left: 155px;
 }
 
 tr {
@@ -29,4 +29,20 @@ tr {
 .headingLrg {
   color: #1765BF;
   font-size: 24px;
+}
+
+.socialMedia {
+  padding-left: 50px;
+}
+
+.bottomLogo {
+  padding-left: 510px;
+}
+
+.coverageInfo {
+  padding-left: 50px;
+}
+
+.copyRight {
+  padding-left: 50px;
 }
